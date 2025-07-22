@@ -1,4 +1,4 @@
-# 🛒 Consumer Goods Ad-Hoc Insights Project 📊
+# 📦 Consumer Goods Ad-Hoc Insights Project 📈
 
 ## 🌟 Overview
 
